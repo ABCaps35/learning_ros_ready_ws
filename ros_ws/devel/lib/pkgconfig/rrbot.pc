@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: rrbot
+Description: Description of rrbot
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/src/learning_ros/Part_5/rrbot/include
+Libs: -L${prefix}/lib -lrrbot_fk_ik -lplanar_3rbot_fk_ik
+Requires: roscpp sensor_msgs geometry_msgs std_msgs

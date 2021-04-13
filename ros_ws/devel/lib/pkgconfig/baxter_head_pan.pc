@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: baxter_head_pan
+Description: Description of baxter_head_pan
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs baxter_core_msgs

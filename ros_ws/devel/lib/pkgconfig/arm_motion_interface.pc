@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: arm_motion_interface
+Description: Description of arm_motion_interface
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/src/learning_ros/Part_5/arm_motion_interface/include
+Libs: -L${prefix}/lib -larm_motion_interface
+Requires: roscpp trajectory_msgs sensor_msgs geometry_msgs xform_utils tf std_msgs message_runtime actionlib generic_cartesian_planner arm_motion_action control_msgs

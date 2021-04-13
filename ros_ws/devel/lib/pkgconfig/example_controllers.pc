@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: example_controllers
+Description: Description of example_controllers
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs sensor_msgs

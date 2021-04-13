@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: generic_cartesian_planner
+Description: Description of generic_cartesian_planner
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/src/learning_ros/Part_5/generic_cartesian_planner/include
+Libs: -L${prefix}/lib -lcartesian_interpolator -lgeneric_cartesian_planner
+Requires: roscpp fk_ik_virtual joint_space_planner actionlib tf xform_utils geometry_msgs arm_motion_action

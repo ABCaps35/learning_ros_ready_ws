@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: simple_baxter_arm_controller
+Description: Description of simple_baxter_arm_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs baxter_core_msgs

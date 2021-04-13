@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: arm7dof_fk_ik
+Description: Description of arm7dof_fk_ik
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/src/learning_ros/Part_5/arm7dof/arm7dof_fk_ik/include
+Libs: -L${prefix}/lib -larm7dof_fk_ik
+Requires: roscpp sensor_msgs

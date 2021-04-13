@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: mobot_with_plugin
+Description: Description of mobot_with_plugin
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

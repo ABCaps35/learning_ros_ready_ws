@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: localization_w_gps
+Description: Description of localization_w_gps
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs nav_msgs geometry_msgs xform_utils sensor_msgs

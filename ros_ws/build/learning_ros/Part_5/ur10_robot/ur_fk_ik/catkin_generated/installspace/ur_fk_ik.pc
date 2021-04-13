@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: ur_fk_ik
+Description: Description of ur_fk_ik
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lur10_fk_ik
+Requires: roscpp

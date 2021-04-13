@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: mobot_urdf
+Description: Description of mobot_urdf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs

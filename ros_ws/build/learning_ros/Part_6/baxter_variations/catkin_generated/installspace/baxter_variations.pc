@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: baxter_variations
+Description: Description of baxter_variations
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

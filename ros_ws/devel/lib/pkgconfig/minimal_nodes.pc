@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: minimal_nodes
+Description: Description of minimal_nodes
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

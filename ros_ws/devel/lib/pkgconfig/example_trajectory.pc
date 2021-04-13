@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: example_trajectory
+Description: Description of example_trajectory
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp trajectory_msgs actionlib message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: baxter_playfile_nodes
+Description: Description of baxter_playfile_nodes
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs baxter_trajectory_streamer baxter_core_msgs actionlib_msgs actionlib message_runtime

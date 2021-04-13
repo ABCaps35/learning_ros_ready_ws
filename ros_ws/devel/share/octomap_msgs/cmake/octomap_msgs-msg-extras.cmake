@@ -1,0 +1,2 @@
+set(octomap_msgs_MESSAGE_FILES "/home/abcaps35/ros_ws_nogit/src/learning_ros_dependencies/octomap_msgs/msg/Octomap.msg;/home/abcaps35/ros_ws_nogit/src/learning_ros_dependencies/octomap_msgs/msg/OctomapWithPose.msg")
+set(octomap_msgs_SERVICE_FILES "/home/abcaps35/ros_ws_nogit/src/learning_ros_dependencies/octomap_msgs/srv/GetOctomap.srv;/home/abcaps35/ros_ws_nogit/src/learning_ros_dependencies/octomap_msgs/srv/BoundingBoxQuery.srv")

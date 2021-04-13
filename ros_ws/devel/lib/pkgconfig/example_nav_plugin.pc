@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws/devel
+
+Name: example_nav_plugin
+Description: Description of example_nav_plugin
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws/src/learning_ros/Part_4/example_nav_plugin/include
+Libs: -L${prefix}/lib 
+Requires: roscpp nav_core

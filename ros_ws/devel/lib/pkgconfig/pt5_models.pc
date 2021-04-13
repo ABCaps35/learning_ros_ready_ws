@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: pt5_models
+Description: Description of pt5_models
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

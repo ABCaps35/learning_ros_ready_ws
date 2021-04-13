@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: opencv_and_pcl
+Description: Description of opencv_and_pcl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp pcl_ros pcl_conversions pcl_msgs sensor_msgs std_msgs tf cv_bridge image_transport

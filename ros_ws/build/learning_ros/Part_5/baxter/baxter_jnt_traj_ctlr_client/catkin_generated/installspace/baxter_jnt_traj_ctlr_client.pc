@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: baxter_jnt_traj_ctlr_client
+Description: Description of baxter_jnt_traj_ctlr_client
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp trajectory_msgs actionlib_msgs actionlib baxter_core_msgs control_msgs

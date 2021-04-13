@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++0x  -shared -Wl,-soname,libminimal_nav_plugin.so -o /home/abcaps35/ros_ws/devel/lib/libminimal_nav_plugin.so CMakeFiles/minimal_nav_plugin.dir/src/minimal_nav_plugin.cpp.o 

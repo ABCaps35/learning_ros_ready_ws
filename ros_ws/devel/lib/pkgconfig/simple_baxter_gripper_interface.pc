@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: simple_baxter_gripper_interface
+Description: Description of simple_baxter_gripper_interface
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/src/learning_ros/Part_5/baxter/simple_baxter_gripper_interface/include
+Libs: -L${prefix}/lib -lsimple_baxter_gripper_interface
+Requires: roscpp std_msgs baxter_core_msgs

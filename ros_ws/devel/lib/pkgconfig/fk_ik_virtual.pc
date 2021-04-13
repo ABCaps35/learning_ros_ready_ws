@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: fk_ik_virtual
+Description: Description of fk_ik_virtual
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/src/learning_ros/Part_5/fk_ik_virtual/include
+Libs: -L${prefix}/lib -lfk_ik_virtual
+Requires: roscpp std_msgs

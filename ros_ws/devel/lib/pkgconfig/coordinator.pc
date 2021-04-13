@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: coordinator
+Description: Description of coordinator
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp object_finder object_grabber actionlib tf geometry_msgs std_msgs message_runtime object_manipulation_properties example_gazebo_set_state gazebo_msgs

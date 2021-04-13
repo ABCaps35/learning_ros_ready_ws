@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: example_move_base_client
+Description: Description of example_move_base_client
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp actionlib move_base_msgs geometry_msgs xform_utils tf

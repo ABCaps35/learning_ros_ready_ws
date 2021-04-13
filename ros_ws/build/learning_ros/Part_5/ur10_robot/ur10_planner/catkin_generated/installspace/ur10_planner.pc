@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: ur10_planner
+Description: Description of ur10_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp generic_cartesian_planner fk_ik_virtual ur_fk_ik xform_utils arm_motion_interface actionlib control_msgs std_msgs geometry_msgs sensor_msgs tf

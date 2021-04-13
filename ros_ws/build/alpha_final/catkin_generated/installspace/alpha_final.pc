@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: alpha_final
+Description: Description of alpha_final
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs nav_msgs traj_builder message_runtime xform_utils odom_tf

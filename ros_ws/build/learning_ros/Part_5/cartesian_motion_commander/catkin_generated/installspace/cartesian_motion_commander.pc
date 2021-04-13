@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: cartesian_motion_commander
+Description: Description of cartesian_motion_commander
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lcartesian_motion_commander
+Requires: roscpp actionlib arm_motion_action trajectory_msgs geometry_msgs xform_utils

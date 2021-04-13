@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: navigator
+Description: Description of navigator
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime roscpp std_msgs geometry_msgs nav_msgs traj_builder actionlib move_base_msgs xform_utils

@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: pcd_images
+Description: Description of pcd_images
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

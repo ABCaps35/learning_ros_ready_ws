@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: arm7dof_nac_controller
+Description: Description of arm7dof_nac_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp arm7dof_fk_ik std_msgs sensor_msgs geometry_msgs

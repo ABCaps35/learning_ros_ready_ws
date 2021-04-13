@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: baxter_launch_files
+Description: Description of baxter_launch_files
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

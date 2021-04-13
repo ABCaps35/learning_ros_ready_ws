@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws/install
+
+Name: example_nav_plugin
+Description: Description of example_nav_plugin
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp nav_core

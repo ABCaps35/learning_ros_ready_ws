@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: arm7dof_motion_plans
+Description: Description of arm7dof_motion_plans
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

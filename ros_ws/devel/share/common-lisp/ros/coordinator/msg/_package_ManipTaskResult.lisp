@@ -1,0 +1,12 @@
+(cl:in-package coordinator-msg)
+(cl:export '(MANIP_RETURN_CODE-VAL
+          MANIP_RETURN_CODE
+          OBJECT_GRABBER_RETURN_CODE-VAL
+          OBJECT_GRABBER_RETURN_CODE
+          DES_GRIPPER_POSE-VAL
+          DES_GRIPPER_POSE
+          OBJECT_FINDER_RETURN_CODE-VAL
+          OBJECT_FINDER_RETURN_CODE
+          OBJECT_POSE-VAL
+          OBJECT_POSE
+))

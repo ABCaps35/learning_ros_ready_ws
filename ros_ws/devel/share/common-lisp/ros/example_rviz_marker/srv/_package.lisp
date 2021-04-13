@@ -1,0 +1,10 @@
+(cl:defpackage example_rviz_marker-srv
+  (:use )
+  (:export
+   "SIMPLEFLOATSRVMSG"
+   "<SIMPLEFLOATSRVMSG-REQUEST>"
+   "SIMPLEFLOATSRVMSG-REQUEST"
+   "<SIMPLEFLOATSRVMSG-RESPONSE>"
+   "SIMPLEFLOATSRVMSG-RESPONSE"
+  ))
+

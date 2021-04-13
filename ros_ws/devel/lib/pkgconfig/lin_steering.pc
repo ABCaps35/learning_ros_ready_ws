@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: lin_steering
+Description: Description of lin_steering
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp nav_msgs geometry_msgs xform_utils odom_tf

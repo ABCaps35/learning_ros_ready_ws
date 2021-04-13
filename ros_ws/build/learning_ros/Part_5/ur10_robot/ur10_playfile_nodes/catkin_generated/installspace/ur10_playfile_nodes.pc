@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: ur10_playfile_nodes
+Description: Description of ur10_playfile_nodes
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime roscpp actionlib trajectory_msgs control_msgs actionlib_msgs ur_fk_ik

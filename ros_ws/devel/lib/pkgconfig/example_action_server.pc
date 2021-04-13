@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: example_action_server
+Description: Description of example_action_server
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs actionlib message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: mobot_drifty_odom
+Description: Description of mobot_drifty_odom
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp nav_msgs geometry_msgs sensor_msgs tf

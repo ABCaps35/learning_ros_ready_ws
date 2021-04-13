@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: pcl_utils
+Description: Description of pcl_utils
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/src/learning_ros/Part_3/pcl_utils/include
+Libs: -L${prefix}/lib -lpcl_utils
+Requires: roscpp pcl_ros pcl_conversions pcl_msgs sensor_msgs std_msgs tf xform_utils

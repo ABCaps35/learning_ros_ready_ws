@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: generic_gripper_services
+Description: Description of generic_gripper_services
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime roscpp baxter_core_msgs simple_baxter_gripper_interface std_srvs

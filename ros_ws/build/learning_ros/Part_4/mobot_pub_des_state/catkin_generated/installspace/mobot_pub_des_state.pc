@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/install
+
+Name: mobot_pub_des_state
+Description: Description of mobot_pub_des_state
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs nav_msgs traj_builder message_runtime

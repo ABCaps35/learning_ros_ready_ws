@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: odom_tf
+Description: Description of odom_tf
+Version: 0.0.0
+Cflags: -I/home/abcaps35/ros_ws_nogit/src/learning_ros/Part_4/odom_tf/include
+Libs: -L${prefix}/lib -lodom_tf
+Requires: roscpp tf nav_msgs geometry_msgs xform_utils

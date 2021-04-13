@@ -1,0 +1,8 @@
+prefix=/home/abcaps35/ros_ws_nogit/devel
+
+Name: object_recognition_msgs
+Description: Description of object_recognition_msgs
+Version: 0.4.1
+Cflags: -I/home/abcaps35/ros_ws_nogit/devel/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs geometry_msgs sensor_msgs shape_msgs std_msgs
